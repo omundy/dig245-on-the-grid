@@ -107,13 +107,18 @@ Follow the prompt in Chapter 4 of *Critical Web Design* ...
 
 <details>
 <summary>Past examples</summary>
-  
+
+- 2026
+  - [Sophie](https://somajernik-gif.github.io/dig245-on-the-grid/) ([Figma](https://www.figma.com/design/PIUX0YMH1rA96CPOs1fIRc/Untitled?node-id=0-1&p=f))
+- 2025
+  - [Dmytro](https://dmku33.github.io/web-dev-grid-layout/)
+  - [Tania](https://taumurerwakalisa.github.io/dig245-on-the-grid/)
 - 2023
-    - [Yumna](https://yuahmed.github.io/dig245-on-the-grid/) ([Figma](https://www.figma.com/file/V1CBLp0pZKuzSzGPA8lqq9/On-The-Grid?type=design&node-id=0-1&mode=design))
-    - [Riana](https://rianadoctor.github.io/dig245-on-the-grid/)
-    - [Dave](https://davidmhilton.github.io/dig245-on-the-grid/) ([Figma](https://www.figma.com/file/554tUw2t22TTVia7XsvjiP/On-the-grid?type=design&node-id=0-1&mode=design))
-    - [Will](https://wcox2.github.io/dig245-on-the-grid/) 
-    - [Patrick](https://patrick-leary.github.io/dig245-on-the-grid/)
-    - [Meredith](https://merhaines.github.io/)
+  - [Yumna](https://yuahmed.github.io/dig245-on-the-grid/) ([Figma](https://www.figma.com/file/V1CBLp0pZKuzSzGPA8lqq9/On-The-Grid?type=design&node-id=0-1&mode=design))
+  - [Riana](https://rianadoctor.github.io/dig245-on-the-grid/)
+  - [Dave](https://davidmhilton.github.io/dig245-on-the-grid/) ([Figma](https://www.figma.com/file/554tUw2t22TTVia7XsvjiP/On-the-grid?type=design&node-id=0-1&mode=design))
+  - [Will](https://wcox2.github.io/dig245-on-the-grid/) 
+  - [Patrick](https://patrick-leary.github.io/dig245-on-the-grid/)
+  - [Meredith](https://merhaines.github.io/)
 
 </details>
